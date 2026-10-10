@@ -1,0 +1,6 @@
+{
+  "name": "Bubble Multiverse",
+  "description": "An immersive 3D cosmic hub connecting four interactive bubble universes with puzzles, creative studios, and quests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
